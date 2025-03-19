@@ -29,7 +29,7 @@ bool isprime(int n)
 	return true;
 }
 
-// this function is unessecary
+// this function is unnecessary
 bool check(string s)
 {
 	cout << "string A: " << s << " size: " << s.size() << endl;
