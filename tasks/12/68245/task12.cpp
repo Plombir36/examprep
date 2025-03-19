@@ -89,7 +89,7 @@ int main()
 		}
 	}
 
-	// just a copypaste of the previous one for replacing "34" with "33"
+	// just copypasted the previous one, replacing "34" with "33"
 	for (int j = 0; j < 15; j++)
 	{
 		s.replace(j*2, 2, "33"); // the only difference
