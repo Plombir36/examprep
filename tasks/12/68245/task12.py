@@ -6,7 +6,7 @@ def isprime(n):
             return False
     return True
 
-s = '0'+'4'*31+'03'
+s = '0'+'4'*31+'30'
 
 for i in range(15):
     s = s.replace("44", "34", 1)
